@@ -1,7 +1,8 @@
 
 # SITE CONFIGURATION
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+url: "https://sweetandrosie.netlify.app"   #change this to yours
+repository: roisinclear/rosierecipes
+
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
@@ -12,7 +13,7 @@ searchbutton: false # you can have a search feature by adding this button to the
 
 # change the following to your name or site name
 footer_text:
-  "Copyright 2023 My name or site"
+  "Copyright 2023 Roisin Clear"
 
 # DO NOT EDIT BELOW THIS LINE
 
