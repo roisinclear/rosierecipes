@@ -3,7 +3,7 @@
 url: "https://sweetandrosie.netlify.app"   #change this to yours
 repository: roisinclear/rosierecipes
 
-title: Your recipe collection
+title: Sweet and Rosie Recipes
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
