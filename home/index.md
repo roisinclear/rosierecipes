@@ -1,9 +1,10 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: Sweet and Rosie Recipes
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-06T22:49:05.339Z
 ---
 
 Here is an introduction to my recipe site
