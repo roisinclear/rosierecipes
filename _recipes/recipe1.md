@@ -1,13 +1,13 @@
 ---
-title: Yummy Lemon Tart
+title: Yummy, sweet, and sour lemon tart
 date: 2022-10-19
 order: 2
 layout: recipe
 published: true
 ---
-
-
 ![Lemon Tart, on shopping board, with two lemon in the background](../uploads/dall·e-2023-02-10-15.18.08-give-me-a-professional-photograph-for-a-lemon-tart-segment-for-a-dessert-cookbook.png)
+
+## H﻿ere's a recipe for lemon tart
 
 ## Ingredients
 
@@ -22,7 +22,8 @@ Ingredients:
   * 1/4 teaspoon salt
   * 1/2 cup unsalted butter, chilled and cubed
   * 1 large egg yolk
-* For the filling:
+
+  ## For the filling:
 
   * 1 cup granulated sugar
   * 1/2 cup fresh lemon juice
@@ -31,7 +32,7 @@ Ingredients:
   * 1/2 cup unsalted butter, cut into small pieces
   * Confectioners' sugar for dusting
 
-Instructions:
+## Instructions:
 
 1. To make the crust: In a large bowl, whisk together the flour, confectioners' sugar, and salt. Add the butter and use a pastry cutter or your fingertips to incorporate it into the dry ingredients until the mixture resembles coarse sand. Stir in the egg yolk until the dough comes together.
 2. Divide the dough into 12 equal portions and press each one into the bottom and up the sides of a muffin cup. Prick the bottom of each crust with a fork and chill in the refrigerator for at least 30 minutes.
