@@ -5,11 +5,11 @@ order: 2
 layout: recipe
 published: true
 ---
-![Lemon Tart, on shopping board, with two lemon in the background](../uploads/dall·e-2023-02-10-15.18.08-give-me-a-professional-photograph-for-a-lemon-tart-segment-for-a-dessert-cookbook.png)
-
 ## H﻿ere's a recipe for lemon tart
 
-## Ingredients
+![Lemon Tart, on shopping board, with two lemon in the background](../uploads/dall·e-2023-02-10-15.18.08-give-me-a-professional-photograph-for-a-lemon-tart-segment-for-a-dessert-cookbook.png)
+
+## Ingredients:
 
 Here is a simple recipe for lemon tarts:
 
