@@ -1,5 +1,5 @@
 ---
-title: Lemon Tart
+title: Yummy Lemon Tart
 date: 2022-10-19
 order: 2
 layout: recipe
