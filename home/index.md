@@ -1,6 +1,6 @@
 ---
 title: Sweet and Rosie Recipes
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/untitled-design-9-.png
 permalink: /
 layout: recipeshome
 published: true
