@@ -6,11 +6,6 @@ layout: recipeshome
 published: true
 date: 2023-02-06T22:49:05.339Z
 ---
+Hi, it’s Roisin (aka Rosie here). Welcome to Sweet and Rosie blog!
 
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Every bite on this page is a taste of heaven, where every day is a sugar rush. Sweet treats are my specialty, whether it's classic cakes or trendy macarons. You'll find all the recipes and tips you need to satisfy your sweet tooth, whether you like rich chocolate desserts or fruity and refreshing confections. I will make some of the most mouth-watering treats you've ever had so put on your apron, preheat the oven, and get ready to indulge!
