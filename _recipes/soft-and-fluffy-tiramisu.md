@@ -6,11 +6,9 @@ layout: recipe
 ---
 Here's a simple recipe for tiramisu:
 
-
-
 ![A photo of tiramisu with a basil leaf on top, next to a plant for decoration](../uploads/dall·e-2023-02-10-17.36.08-give-me-a-professional-picture-of-tiramisu-for-a-dessert-cookbook.png)
 
-Ingredients:
+## Ingredients:
 
 * 6 egg yolks
 * 1/2 cup granulated sugar
@@ -21,7 +19,7 @@ Ingredients:
 * 1 package ladyfingers (about 24)
 * Unsweetened cocoa powder, for dusting
 
-Instructions:
+## Instructions:
 
 1. In a medium saucepan, whisk together the egg yolks and sugar.
 2. Add the coffee to the saucepan and place over medium heat. Cook, stirring constantly, until the mixture thickens and coats the back of a spoon.
