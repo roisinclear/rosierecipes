@@ -9,7 +9,7 @@ published: true
 
 ![Photo of crème brûlée](../uploads/dall·e-2023-02-10-18.05.36-give-me-a-professional-picture-of-creme-brulee-for-a-dessert-cookbook.png)
 
-Ingredients:
+## Ingredients:
 
 * 4 large egg yolks
 * 1/2 cup white sugar
