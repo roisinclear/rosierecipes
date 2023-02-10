@@ -4,11 +4,11 @@ date: 2023-02-10T16:04:45.963Z
 order: 3
 layout: recipe
 ---
-Here is a recipe for coffee macarons:
+## Here is a recipe for coffee macarons:
 
-![Coffee Macarons, with tqo on top of eachother ](../uploads/dall·e-2023-02-10-16.38.27-give-me-a-professional-picture-of-coffee-macarons-for-a-dessert-cookbook.png)
+![Coffee Macarons, with two on top of eachother ](../uploads/dall·e-2023-02-10-16.38.27-give-me-a-professional-picture-of-coffee-macarons-for-a-dessert-cookbook.png)
 
-Ingredients:
+## Ingredients:
 
 For the Macaron Shells:
 
@@ -21,7 +21,7 @@ For the Macaron Shells:
 * 1 tsp instant coffee powder
 * Food coloring (optional)
 
-For the Coffee Buttercream Filling:
+## For the Coffee Buttercream Filling:
 
 * 113g unsalted butter, at room temperature
 * 225g powdered sugar
@@ -29,7 +29,7 @@ For the Coffee Buttercream Filling:
 * 1 tsp instant coffee powder
 * 1 tsp vanilla extract
 
-Instructions:
+## Instructions:
 
 1. Preheat your oven to 300°F (150°C) and line two baking sheets with parchment paper.
 2. Sift the powdered sugar, almond flour, and confectioner's sugar into a large bowl and set aside.
