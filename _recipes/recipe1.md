@@ -5,7 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-## H﻿ere's a recipe for lemon tart
+H﻿ere's a recipe for lemon tart
 
 ## Ingredients:
 
