@@ -4,7 +4,7 @@ date: 2023-02-10T16:04:45.963Z
 order: 3
 layout: recipe
 ---
-
+T﻿his a lovely, simple recipe for coffee lovers, get ready to make coffee macarons!
 
 ![Coffee Macarons, with two on top of eachother ](../uploads/dall·e-2023-02-10-16.38.27-give-me-a-professional-picture-of-coffee-macarons-for-a-dessert-cookbook.png)
 
