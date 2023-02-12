@@ -1,7 +1,7 @@
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+font-family: "Didot" , serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -15,37 +15,41 @@
 /* the rest is up to you */
 body {
   background-color: azure;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-color:rgb(235, 171, 203);
+  
+
+color:rgb(148, 78, 113);
 margin-bottom:12px;
+
 }
 
-h2 {color:red; 
+h2 
+{font-family: 'Leckerli One', cursive;
+  color:rgb(255, 133, 204); 
   margin: 0 0 12px 0;
+  
 }
-h1,h2 {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-}
+
 p {
   color: brown; (59,57,57);
   margin-bottom:1em;
 }
-main{
+
+  main {
   width:60%;
   max-width:850px;
-  border:1px solid plum;
+  border:1px solid rgb(255, 255, 255);
   padding: 0 12px;
   margin:0 auto;
-  background-color: whitesmoke;
+  background-color: rgb(255, 255, 255);
 }
-
-
 
 img {
-  width: 60%;
-  float:right;
-}
+width:50%;
+float:right;}
 
 ul{
 margin-left: 40px;
@@ -63,3 +67,7 @@ li{
 width:60%;
 }
 
+a:link    { color: rgb(123, 36, 93); text-decoration: none; }
+a:visited { color: rgb(123, 36, 93); text-decoration: none; }
+a:hover   { color: rgb(123, 36, 93); text-decoration: none; }
+a:active  { color: rgb(123, 36, 93); text-decoration: none; }
