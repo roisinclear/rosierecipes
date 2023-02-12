@@ -4,11 +4,7 @@ date: 2023-02-06T22:51:11.687Z
 order: 1
 layout: recipe
 ---
-H﻿i everyone, welcome to my new page designed for sweet-treat lovers! The fist recipe is a quck brownie one to conquer those cravings!
-
-
-
-
+# H﻿ere's a recipe for yummy brownies
 
 Ingredients:
 
@@ -21,8 +17,6 @@ Ingredients:
 7. 1 teaspoon baking powder
 8. 1 3/4 cups all-purpose flour
 9. 2 cups semisweet chocolate chips
-
-
 
 Instructions:
 
