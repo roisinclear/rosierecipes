@@ -8,7 +8,7 @@ T﻿his a lovely, simple recipe for coffee lovers, get ready to make coffee maca
 
 ![Coffee Macarons, with two on top of eachother ](../uploads/dall·e-2023-02-10-16.38.27-give-me-a-professional-picture-of-coffee-macarons-for-a-dessert-cookbook.png)
 
-## Here is a recipe for coffee macarons:
+## Here is a recipe for coffee macarons, enjoy!
 
 ## Ingredients:
 
