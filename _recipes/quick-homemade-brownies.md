@@ -4,9 +4,9 @@ date: 2023-02-06T22:51:11.687Z
 order: 1
 layout: recipe
 ---
-## H﻿ere's a recipe for yummy brownies!
+H﻿ere's a recipe for yummy brownies!
 
-Ingredients:
+## Ingredients:
 
 1. 1 cup (2 sticks) of unsalted butter
 2. 2 1/4 cups granulated sugar
@@ -18,7 +18,7 @@ Ingredients:
 8. 1 3/4 cups all-purpose flour
 9. 2 cups semisweet chocolate chips
 
-Instructions:
+## Instructions:
 
 1. Preheat the oven to 350°F (175°C). Line a 9x13 inch baking pan with parchment paper or lightly grease it.
 2. In a large saucepan, melt the butter over low heat.
