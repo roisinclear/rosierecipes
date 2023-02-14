@@ -7,6 +7,8 @@ published: true
 ---
 H﻿ere's a recipe for lemon tart
 
+![](../uploads/dall·e-2023-02-10-15.18.08-give-me-a-professional-photograph-for-a-lemon-tart-segment-for-a-dessert-cookbook.png)
+
 ## Ingredients:
 
 Here is a simple recipe for lemon tarts:
