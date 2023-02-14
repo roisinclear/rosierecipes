@@ -6,6 +6,8 @@ layout: recipe
 ---
 H﻿ere's a recipe for yummy brownies!
 
+![](../uploads/dall·e-2023-02-10-15.28.32-give-me-a-professional-photograph-of-chocolate-brownies-on-a-plate-for-a-dessert-cookbook.png)
+
 ## Ingredients:
 
 1. 1 cup (2 sticks) of unsalted butter
