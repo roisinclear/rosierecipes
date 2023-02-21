@@ -15,20 +15,20 @@ Here is a simple recipe for lemon tarts:
 
 ## For the crust:
 
-  * 1 1/2 cups all-purpose flour
-  * 1/4 cup confectioners' sugar
-  * 1/4 teaspoon salt
-  * 1/2 cup unsalted butter, chilled and cubed
-  * 1 large egg yolk
+* 1 1/2 cups all-purpose flour
+* 1/4 cup confectioners' sugar
+* 1/4 teaspoon salt
+* 1/2 cup unsalted butter, chilled and cubed
+* 1 large egg yolk
 
-  ## For the filling:
+## For the filling:
 
-  * 1 cup granulated sugar
-  * 1/2 cup fresh lemon juice
-  * 1 teaspoon lemon zest
-  * 4 large eggs
-  * 1/2 cup unsalted butter, cut into small pieces
-  * Confectioners' sugar for dusting
+* 1 cup granulated sugar
+* 1/2 cup fresh lemon juice
+* 1 teaspoon lemon zest
+* 4 large eggs
+* 1/2 cup unsalted butter, cut into small pieces
+* Confectioners' sugar for dusting
 
 ## Instructions:
 
