@@ -9,15 +9,13 @@ H﻿ere's a recipe for lemon tart
 
 ![](../uploads/dall·e-2023-02-10-15.18.08-give-me-a-professional-photograph-for-a-lemon-tart-segment-for-a-dessert-cookbook.png)
 
-## Ingredients:
-
 Here is a simple recipe for lemon tarts:
 
-Ingredients:
+## Ingredients:
 
-* For the crust:
+## For the crust:
 
-  * 1 1/2 cups all-purpose flour
+* * 1 1/2 cups all-purpose flour
   * 1/4 cup confectioners' sugar
   * 1/4 teaspoon salt
   * 1/2 cup unsalted butter, chilled and cubed
