@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Raleway:ital,wght@0,100;0,200;1,100;1,200&display=swap');
 /*! CSS bare bones for recipes site */
+	<h1 class="site-title"><a title="back to the recipe list" aria-label="Your recipe collection"
 
  html {
 font-family: "Didot" , serif;
@@ -14,20 +16,67 @@ font-family: "Didot" , serif;
 
 /* the rest is up to you */
 body {
-  background-color: azure;
-  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(255, 240, 246);
+ font-family: 'Raleway', sans-serif;
+  padding-top: 70px;
+  color: brown;
 }
+
+header {
+  text-align: center;
+  background-color: rgb(246, 197, 230);
+  position:fixed;
+  top: 0;
+  padding: 0;
+  width: 100%;
+  z-index: 1;
+  height: 4rem;
+  margin-bottom: 10px;
+
+} 
+header h1 {
+  margin: 12px auto;
+}
+.recipeshome header {
+  display:none;
+}
+
+{}
+@media screen and (max-width:700px) {
+  nav {
+    margin: 0;
+    position: static;
+    width:100;
+  }
+  nav ul {
+   font-size:1rem; 
+  }
+  main {
+    width: 100;
+  }
+  body { background-color:rgb(246, 197, 230); 
+}
+p: has; (img) {
+  float:none;
+  width:100%;
+  padding; 10px;
+  margin-left: 0;
+}
+}
+  
+
+
 
 h1 {
   
-
-color:rgb(148, 78, 113);
+  font-family: 'Gloock', serif;
+color:rgb(160, 52, 106);
 margin-bottom:12px;
 
 }
 
 h2 
-{font-family: 'Leckerli One', cursive;
+{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   color:rgb(255, 133, 204); 
   margin: 0 0 12px 0;
   
@@ -46,10 +95,26 @@ p {
   margin:0 auto;
   background-color: rgb(255, 255, 255);
 }
+.recipe-teaser{
+  border: 1px solid rgb(62, 14, 1);
+  padding: 1em;
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin: 1em;
+}
+
+.list{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+
 
 img {
-width:50%;
-float:right;}
+width:100%;
+/* float:right; */
+}
 
 ul{
 margin-left: 40px;
@@ -57,7 +122,7 @@ margin-left: 40px;
 }
 li{
   font-size:.8em;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Gloock', serif;
   margin-bottom:12px;
   list-style-position:inside;
 }
@@ -67,7 +132,7 @@ li{
 width:60%;
 }
 
-a:link    { color: rgb(123, 36, 93); text-decoration: none; }
-a:visited { color: rgb(123, 36, 93); text-decoration: none; }
-a:hover   { color: rgb(123, 36, 93); text-decoration: none; }
-a:active  { color: rgb(123, 36, 93); text-decoration: none; }
+a:link    { color: rgb(211, 43, 96); text-decoration: none; }
+a:visited { color: rgb(211, 43, 96); text-decoration: none; }
+a:hover   { color: rgb(211, 43, 96); text-decoration: none; }
+a:active  { color: rgb(211, 43, 96); text-decoration: none; }
