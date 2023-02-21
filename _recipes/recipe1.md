@@ -15,7 +15,7 @@ Here is a simple recipe for lemon tarts:
 
 ## For the crust:
 
-* * 1 1/2 cups all-purpose flour
+  * 1 1/2 cups all-purpose flour
   * 1/4 cup confectioners' sugar
   * 1/4 teaspoon salt
   * 1/2 cup unsalted butter, chilled and cubed
