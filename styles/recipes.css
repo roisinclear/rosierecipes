@@ -16,7 +16,12 @@ font-family: "Didot" , serif;
 
 /* the rest is up to you */
 body {
-  background-color: rgb(255, 240, 246);
+  background-image: url("https://i.ibb.co/VQj47WB/Tender-stylish-Valentine-s-Day-card-with-hearts-1.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
  font-family:'Raleway', sans-serif;
   padding-top: 70px;
   padding-bottom: 15px;
