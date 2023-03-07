@@ -109,15 +109,7 @@ p {
   flex-wrap:wrap;
   justify-content: space-between;
 }
-footer{text-align: center;
-  background-color:rgb(246, 197, 230);
-  padding: 5px;
-  color: brown (251, 221, 166);
-  bottom:0;
-  width:100%;
-  position: fixed;
-  font-family: 'Raleway', sans-serif;
-  font-size: 12px;}
+
 img {
 width:100%;
 /* float:right; */
@@ -145,7 +137,8 @@ a:hover   { color: rgb(211, 43, 96); text-decoration: none; }
 a:active  { color: rgb(211, 43, 96); text-decoration: none; }
 
   
-
+footer{text-align: center;
+padding: 6px;}
 
 
 h1 {
@@ -189,8 +182,27 @@ p {
   flex-wrap:wrap;
   justify-content: space-between;
 }
+ 
+nav ul {
+  list-style: none;
+}
 
-
+nav ul li {
+font-size: 0.8rem;
+} 
+nav {
+  background-color: rgba(255, 217, 238, 0.84);
+  display: block;
+  /* border: 1px solid red; */
+  width: 15%;
+  padding: 10px;
+  margin: 0;
+  min-width: 120px;
+  position:fixed;
+  top:6em;
+  left:0;
+  z-index: 12;
+}
 
 img {
 width:100%;
@@ -212,6 +224,48 @@ li{
   float:right;
 width:60%;
 }
+
+@media screen and (max-width: 700px) {
+
+  nav {
+  margin:0;
+  position: static;
+  width:100%;
+  }
+  
+  nav ul {
+  font-size:1rem;
+  }
+  
+    main {
+    width: 100%;
+    padding: 1em;
+    border: none;
+    }
+  
+    body {
+    background-color: rgb(255, 240, 246);
+    padding-top: 5em;
+  }
+
+  body.recipeshome {
+    padding-top:0;
+  }
+
+  .home {
+    width: 80%;
+    margin: .5em auto;
+  }
+  
+  p:has(img) {
+    float:none;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
+  }
+
+}
+
 
 a:link    { color: rgb(211, 43, 96); text-decoration: none; }
 a:visited { color: rgb(211, 43, 96); text-decoration: none; }
